@@ -1,47 +1,39 @@
-<h1 align="center">Tinder Clone ✨</h1>
+ 
 
-![Demo App](/client/public/screenshot-for-readme.png)
+---
 
-About This Course:
+# **🚀 HackConnect – AI-Powered Hackathon Team Builder**  
 
-- 🔐 Authentication System with JWT
-- 🛡️ Route Protection
-- 👤 User Profile Creation and Updates
-- 🖼️ Image Upload for Profiles
-- 🔄 Swipe Right/Left Feature
-- 💬 Real-time Chat Messaging
-- 🔔 Real-time Notifications
-- 🤝 Matching Algorithm
-- 📱 Responsive Mobile Design
-- ⌛ And a lot more...
+HackConnect is a **web application and android application** designed to help students **find the right teammates** for hackathons using **AI-powered suggestions** and **real-time collaboration features**.  
 
-### Setup .env file
+---
 
-```bash
-PORT=5000
-MONGO_URI=<your_mongo_uri>
+## **🔹 Features**  
+✅ **AI Team Analyzer** – Get teammate recommendations based on skills & project needs.  
+✅ **Swipe-Based Matching** – Connect with like-minded developers, designers & innovators.  
+✅ **Real-Time Chat** – Share ideas, links, and code snippets with your team.  
+✅ **Hackathon Discovery** – Search & filter upcoming hackathons by location, level, and tech stack.  
+✅ **Profile & Settings** – Customize your profile, manage connections, and update preferences.  
 
-JWT_SECRET=<your_very_strong_secret>
+---
 
-NODE_ENV=development
-CLIENT_URL=http://localhost:5173
+## **🛠 Tech Stack**  
 
-CLOUDINARY_API_KEY=<your_cloudinary_api_key>
-CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
-CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
+| **Technology**  | **Usage**  |
+|---------------|------------|
+| **Frontend**  | Next.js, Tailwind CSS  |
+| **Backend**  | Firebase (Authentication & Database)  |
+| **AI Matching**  | Machine Learning-based Team Recommendation  |
 
-```
+---
 
-### Run this app locally
+## **🎯 Why HackConnect?**  
+✔️ **Simplify team-building**  
+✔️ **Enhance collaboration**  
+✔️ **Increase hackathon success rate**  
 
-- Set `NODE_ENV=production` and build the app 👇
+🚀 **Build your dream team today with HackConnect!**  
 
-```shell
-npm run build
-```
 
-### Start the app
 
-```shell
-npm run start
-```
+
