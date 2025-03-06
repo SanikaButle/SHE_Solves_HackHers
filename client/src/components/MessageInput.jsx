@@ -45,15 +45,15 @@ const MessageInput = ({ match }) => {
 				type='text'
 				value={message}
 				onChange={(e) => setMessage(e.target.value)}
-				className='flex-grow p-3 pl-12 rounded-l-lg border-2 border-pink-500 
+				className='flex-grow p-3 pl-12 rounded-l-lg border-2 border-blue-500 
         focus:outline-none focus:ring-2 focus:ring-pink-300'
 				placeholder='Type a message...'
 			/>
 
 			<button
 				type='submit'
-				className='bg-pink-500 text-white p-3 rounded-r-lg 
-        hover:bg-pink-600 transition-colors focus:outline-none focus:ring-2 focus:ring-pink-300'
+				className='bg-blue-500 text-white p-3 rounded-r-lg 
+        hover:bg-blue-600 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-300'
 			>
 				<Send size={24} />
 			</button>

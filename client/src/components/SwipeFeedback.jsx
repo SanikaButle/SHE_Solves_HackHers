@@ -6,10 +6,10 @@ const getFeedbackStyle = (swipeFeedback) => {
 	if (swipeFeedback === "matched") return "text-pink-500";
 	return "";
 };
-
+//sanika-changes
 const getFeedbackText = (swipeFeedback) => {
-	if (swipeFeedback === "liked") return "Liked!";
-	if (swipeFeedback === "passed") return "Passed";
+	if (swipeFeedback === "liked") return "Accepted!";
+	if (swipeFeedback === "passed") return "Ignored";
 	if (swipeFeedback === "matched") return "It's a Match!";
 	return "";
 };
