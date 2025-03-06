@@ -62,5 +62,33 @@ DashBoard Page
 Find Teammates Page
 [Watch the Video](https://drive.google.com/file/d/1q1xNXW73rgbaqUHd8v9RPHYUdYzNlZh3/view?usp=sharing)
 
+Its a Mathch & Chat Screen 
+[Watch the Video](https://drive.google.com/file/d/1q1xNXW73rgbaqUHd8v9RPHYUdYzNlZh3/view?usp=sharing)
+
+AI - Analayzer Page
+![WhatsApp Image 2025-03-06 at 11 49 34_ac0d096e](https://github.com/user-attachments/assets/5f67db2a-1c71-486b-a5d1-1826ea253232)
+
+Hackathon Search Page
+![WhatsApp Image 2025-03-06 at 11 49 55_c239fb62](https://github.com/user-attachments/assets/825ac319-7eb2-4b4c-a47e-8b6b2668598f)
+
+Notification Page
+![WhatsApp Image 2025-03-06 at 11 50 15_86d469f8](https://github.com/user-attachments/assets/5c4f6ebd-daca-466d-b726-ba96fac6f22f)
+
+Profile Page
+![WhatsApp Image 2025-03-06 at 11 51 13_2830ce37](https://github.com/user-attachments/assets/3d6e9060-26cf-40e2-babe-540eb22cdb4c)
+
+New Request Page
+![WhatsApp Image 2025-03-06 at 11 53 22_012e15b4](https://github.com/user-attachments/assets/1918943a-6980-4f60-9882-347792c5b23d)
+
+Setting Page
+![WhatsApp Image 2025-03-06 at 11 50 34_8833fa85](https://github.com/user-attachments/assets/38001bd0-a315-48c2-b221-0df7035c1ca3)
+
+
+
+
+
+
+
+
 
 
