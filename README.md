@@ -45,14 +45,13 @@ cd hackconnect-webapp
 sh
 npm install
 
-##Imags of HackConnect WebApp
-![WhatsApp Image 2025-03-06 at 11 47 27_73f9c20c](https://github.com/user-attachments/assets/c596e26a-32a2-47ea-87b1-a068609568e5)
-
-
-
 
 ### *3️⃣ Run the Development Server*  
 sh
 npm run dev
 
 Visit **http://localhost:3000** in your browser.
+
+## *📌 Images of HackConnect WebApp* 
+Sign Up Page
+![WhatsApp Image 2025-03-06 at 11 47 27_73f9c20c](https://github.com/user-attachments/assets/c596e26a-32a2-47ea-87b1-a068609568e5)
