@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useAuthStore } from "../store/useAuthStore";
-
+//updated sign up form
 const SignUpForm = () => {
 	const [name, setName] = useState("");
 	const [email, setEmail] = useState("");
