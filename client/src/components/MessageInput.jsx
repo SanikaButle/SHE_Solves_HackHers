@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { useMessageStore } from "../store/useMessageStore";
 import { Send, Smile } from "lucide-react";
 import EmojiPicker from "emoji-picker-react";
-
+//updated login form things
 const MessageInput = ({ match }) => {
 	const [message, setMessage] = useState("");
 	const [showEmojiPicker, setShowEmojiPicker] = useState(false);
