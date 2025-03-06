@@ -28,3 +28,4 @@ const SwipeFeedback = () => {
 	);
 };
 export default SwipeFeedback;
+//updations done
