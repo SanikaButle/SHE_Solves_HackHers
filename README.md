@@ -59,3 +59,8 @@ Sign Up Page
 DashBoard Page
 ![WhatsApp Image 2025-03-06 at 11 47 51_e921de6e](https://github.com/user-attachments/assets/dc29430f-1d39-45c2-abec-ceb5971f7731)
 
+Find Teammates Page
+[Watch the Video](videos/my-video.mp4)
+
+
+
